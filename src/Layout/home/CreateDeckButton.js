@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useHistory } from "react";
 import { useHistory } from "react-router-dom";
 
 function CreateDeckButton() {
